@@ -1,0 +1,7 @@
+E:\AMIKOM\Sem 2\Pemrograman\UAS\ManagementKaryawan\ManagementKaryawan\bin\Debug\ManagementKaryawan.exe.config
+E:\AMIKOM\Sem 2\Pemrograman\UAS\ManagementKaryawan\ManagementKaryawan\bin\Debug\ManagementKaryawan.exe
+E:\AMIKOM\Sem 2\Pemrograman\UAS\ManagementKaryawan\ManagementKaryawan\bin\Debug\ManagementKaryawan.pdb
+E:\AMIKOM\Sem 2\Pemrograman\UAS\ManagementKaryawan\ManagementKaryawan\obj\Debug\ManajemenKaryawan.csproj.AssemblyReference.cache
+E:\AMIKOM\Sem 2\Pemrograman\UAS\ManagementKaryawan\ManagementKaryawan\obj\Debug\ManajemenKaryawan.csproj.CoreCompileInputs.cache
+E:\AMIKOM\Sem 2\Pemrograman\UAS\ManagementKaryawan\ManagementKaryawan\obj\Debug\ManagementKaryawan.exe
+E:\AMIKOM\Sem 2\Pemrograman\UAS\ManagementKaryawan\ManagementKaryawan\obj\Debug\ManagementKaryawan.pdb
